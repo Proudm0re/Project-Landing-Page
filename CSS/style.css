@@ -98,12 +98,22 @@ h1 {
 
 .content {
     align-items: center;
+
+}
+
+.content h4 {
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #3d4655;
 }
 
 .content-info {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    font-size: 28px;
+    font-family: 'Roboto', arial;
+    color: #3d4655;
 }
 
 .content-info img {
